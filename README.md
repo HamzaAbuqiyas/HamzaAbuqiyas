@@ -1,16 +1,12 @@
-<h1 align="center">Hi, I'm Hamza 👋</h1>
-<h3 align="center">.NET Developer · C# · ASP.NET Core · SQL Server · Angular</h3>
-<p align="center">
-  📍 Amman, Jordan &nbsp;·&nbsp; 🌍 Open to relocation across the GCC
-</p>
----
+Hi, I'm Hamza 👋
+.NET Developer · C# · ASP.NET Core · SQL Server · Angular
+📍 Amman, Jordan · 🌍 Open to relocation across the GCC
 🧑‍💻 About me
 I build and maintain features in an enterprise fuel station management system (Head Office & Back Office) using C#, .NET, SQL Server, stored procedures and RDLC reporting.
 I enjoy tracing problems end to end: from the UI, through the application code, down to the database.
 🎓 B.Sc. in Software Engineering, Applied Science Private University (2022 – 2026)
 🌱 Currently learning: microservices with .NET, RabbitMQ and Docker
 🤖 I build with AI coding agents (Claude Code + the Angular CLI MCP server) to move fast, and I review and test every change myself.
----
 🛠️ Tech stack
 Backend
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -35,12 +31,10 @@ Tools & Practices
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2E7D32?style=flat)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
----
 🚀 Featured projects
 Project	What it is	Stack
 🌾 Hasad	AI-powered crop yield prediction platform. Graduation project; I led a team of 4 and built the web application.	ASP.NET Core Web API · Angular · EF Core · SQL Server · JWT
 🏢 HR System (in progress)	Employee management system built as microservices, to learn distributed systems properly.	.NET · Clean Architecture · RabbitMQ · Docker
----
 📫 Contact
 📧 hselawe111@gmail.com
 💼 LinkedIn: add your link here
