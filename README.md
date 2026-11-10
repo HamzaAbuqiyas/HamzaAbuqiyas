@@ -51,16 +51,17 @@
 ## 📊 GitHub stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaAbuqiyas&theme=tokyonight" alt="Profile details" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=HamzaAbuqiyas&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaAbuqiyas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HamzaAbuqiyas&theme=tokyonight" alt="GitHub stats" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAbuqiyas&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaAbuqiyas&theme=tokyo-night&hide_border=true" alt="Activity graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HamzaAbuqiyas&theme=tokyonight" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HamzaAbuqiyas&theme=tokyonight" alt="Repos per language" height="165" />
 </p>
 
 <p align="center">
