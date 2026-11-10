@@ -55,4 +55,4 @@
 ### 📫 Contact
 
 - 📧 hselawe111@gmail.com
-- 💼 LinkedIn: *add your link here*
+- 💼 LinkedIn https://www.linkedin.com/in/hamza-abu-qiyas-5b9237381
