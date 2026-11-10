@@ -10,7 +10,7 @@
 - I enjoy tracing problems end to end: from the UI, through the application code, down to the database.
 - 🎓 B.Sc. in Software Engineering, Applied Science Private University (2022 – 2026)
 - 🌱 Currently learning: **microservices** with .NET, **RabbitMQ** and **Docker**
-- 🤖 I build with **AI coding agents** (Claude Code + the Angular CLI MCP server) to move fast, and I review and test every change myself.
+
 
 ### 🛠️ Tech stack
 
